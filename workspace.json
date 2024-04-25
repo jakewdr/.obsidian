@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "6f7048a7705c42e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "876867eadeb192c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c2604acb7654b4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business/Year 1/Theme 2/Operations/Improving Quality.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b5af5a472e578ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a173adad0d47460",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d228dd22c9ddccae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4a2e29c9648515d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "418e9316ad619f61",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5
+  },
+  "right": {
+    "id": "e29c3916323fa488",
+    "type": "split",
+    "children": [
+      {
+        "id": "97b7a3e71f493ab2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1433ce6a0c9cf915",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Business/Year 1/Theme 2/Operations/Improving Quality.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aff35991aabb632f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Business/Year 1/Theme 2/Operations/Improving Quality.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6fcd4aadf800f8e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0085bd1d99c01830",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Business/Year 1/Theme 2/Operations/Improving Quality.md"
+              }
+            }
+          },
+          {
+            "id": "7c5861f7bdafdf87",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "2c2604acb7654b4a",
+  "lastOpenFiles": [
+    "Business/Year 1/Theme 2/Operations/Internal and External influence.md",
+    "Business/Year 1/Theme 2/Operations/Lean production.md",
+    "Business/Year 1/Theme 2/Operations/Operational Objectives.md",
+    "Business/Year 1/Theme 2/Operations/Using technology to improve efficiency.md",
+    "Computer Science/Networks and web technologies/Structure of the internet.md",
+    "FastStart-Plugins-LongDelay.md",
+    "FastStart-Plugins-ShortDelay.md",
+    "template/FastStart-GenerateListOfInstalledPlugins.md",
+    "template/FastStart-StartupScript.md",
+    "Computer Science/Networks and web technologies/Internet Communication.md",
+    "Computer Science/Systems software and general applications/Functions of an operating system.md",
+    "Computer Science/Software development/Programming paradigms.md",
+    "Computer Science/Software development/Writing and following algorithms.md",
+    "Business/Year 1/Theme 2/Finance/Analysing financial performance.md",
+    "Business/Year 1/Theme 2/Finance/Break even.md",
+    "Business/Year 1/Theme 2/Finance/Cash flow and profit.md",
+    "Computer Science/Software development/Assembly language.md",
+    "Computer Science/Data Types/Primitive Data Types.md",
+    "Computer Science/Data Types/Floating point arithmetic.md",
+    "Computer Science/Data Types/Bitwise manipulation and masks.md",
+    "Computer Science/Data Types/Binary arithmetic.md",
+    "Computer Science/Data Types/ASCII and Unicode.md",
+    "Business/Year 1/Theme 1/Human Resources/Business Forms.md",
+    "Business/Year 1/Theme 1/Human Resources/Motivation.md",
+    "Business/Year 1/Theme 1/Human Resources/Human resource flow.md",
+    "Business/Year 1/Theme 1/Human Resources/Analyzing HR performance.md",
+    "Pasted image 20231127143008.png",
+    "Computer Science/Networks and web technologies",
+    "Business/Year 1/Theme 2/Operations",
+    "Business/Exam stuff",
+    "Pasted image 20240229094449.png",
+    "Computer Science/Boolean Algebra",
+    "Untitled.canvas",
+    "Computer Science/Data Types",
+    "template/FastStart-StartupScript.js",
+    "template/New Text Document.txt",
+    "template",
+    "Business/Year 1/Theme 2/Finance",
+    "Business/Year 1/Theme 2",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Pasted image 20231129094026.png",
+    "Pasted image 20231127143442.png",
+    "Pasted image 20231127144313.png",
+    "Pasted image 20231127142825.png"
+  ]
+}

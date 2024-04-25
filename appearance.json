@@ -1,0 +1,13 @@
+{
+  "accentColor": "#abb7ce",
+  "translucency": false,
+  "cssTheme": "Tokyo Night",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "indent",
+    "indent rainbow",
+    "fast text render"
+  ],
+  "interfaceFontFamily": "Cascadia Mono",
+  "baseFontSize": 17
+}
