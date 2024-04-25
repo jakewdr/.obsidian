@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Networks and web technologies/Structure of the internet.md",
+                "file": "Business/Year 1/Theme 2/Operations/Improving Quality.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Networks and web technologies/Structure of the internet.md",
+                "file": "Business/Year 1/Theme 2/Operations/Improving Quality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Networks and web technologies/Structure of the internet.md",
+                "file": "Business/Year 1/Theme 2/Operations/Improving Quality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Networks and web technologies/Structure of the internet.md"
+                "file": "Business/Year 1/Theme 2/Operations/Improving Quality.md"
               }
             }
           },
@@ -160,12 +160,16 @@
   },
   "active": "2c2604acb7654b4a",
   "lastOpenFiles": [
+    "Business/Year 1/Theme 2/Operations/Internal and External influence.md",
+    "Business/Year 1/Theme 2/Operations/Lean production.md",
+    "Business/Year 1/Theme 2/Operations/Operational Objectives.md",
+    "Business/Year 1/Theme 2/Operations/Using technology to improve efficiency.md",
+    "Computer Science/Networks and web technologies/Structure of the internet.md",
     "FastStart-Plugins-LongDelay.md",
     "FastStart-Plugins-ShortDelay.md",
     "template/FastStart-GenerateListOfInstalledPlugins.md",
     "template/FastStart-StartupScript.md",
     "Computer Science/Networks and web technologies/Internet Communication.md",
-    "Computer Science/Networks and web technologies/Structure of the internet.md",
     "Computer Science/Systems software and general applications/Functions of an operating system.md",
     "Computer Science/Software development/Programming paradigms.md",
     "Computer Science/Software development/Writing and following algorithms.md",
@@ -182,10 +186,6 @@
     "Business/Year 1/Theme 1/Human Resources/Motivation.md",
     "Business/Year 1/Theme 1/Human Resources/Human resource flow.md",
     "Business/Year 1/Theme 1/Human Resources/Analyzing HR performance.md",
-    "Computer Science/Components/Processor performance.md",
-    "Computer Science/Components/Storage Devices.md",
-    "Computer Science/Boolean Algebra/Logic gates and truth tables.md",
-    "Computer Science/Boolean Algebra/Karnaugh maps.md",
     "Pasted image 20231127143008.png",
     "Computer Science/Networks and web technologies",
     "Business/Year 1/Theme 2/Operations",
