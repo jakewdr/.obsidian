@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FastStart-Plugins-LongDelay.md",
+                "file": "Computer Science/Networks and web technologies/Structure of the internet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FastStart-Plugins-LongDelay.md",
+                "file": "Computer Science/Networks and web technologies/Structure of the internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FastStart-Plugins-LongDelay.md",
+                "file": "Computer Science/Networks and web technologies/Structure of the internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FastStart-Plugins-LongDelay.md"
+                "file": "Computer Science/Networks and web technologies/Structure of the internet.md"
               }
             }
           },
@@ -160,8 +160,8 @@
   },
   "active": "2c2604acb7654b4a",
   "lastOpenFiles": [
-    "FastStart-Plugins-ShortDelay.md",
     "FastStart-Plugins-LongDelay.md",
+    "FastStart-Plugins-ShortDelay.md",
     "template/FastStart-GenerateListOfInstalledPlugins.md",
     "template/FastStart-StartupScript.md",
     "Computer Science/Networks and web technologies/Internet Communication.md",
