@@ -1,0 +1,16 @@
+{
+  "showLineNumber": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "promptDelete": false,
+  "autoConvertHtml": false,
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "rightToLeft": false,
+  "trashOption": "none"
+}
