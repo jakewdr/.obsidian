@@ -4,19 +4,41 @@
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": true,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Business  ",
+      "color": {
+        "a": 1,
+        "rgb": 10869177
+      }
+    },
+    {
+      "query": "tag:#Computing  ",
+      "color": {
+        "a": 1,
+        "rgb": 43990
+      }
+    },
+    {
+      "query": "tag: #maths  ",
+      "color": {
+        "a": 1,
+        "rgb": 14980389
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.07525951557093,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9934372826857563,
+  "scale": 0.978575453914452,
   "close": true
 }

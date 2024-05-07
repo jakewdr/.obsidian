@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🤔",
-      "🥈",
-      "🥇",
-      "✖",
-      "🎬"
+      "🖊",
+      "🛍",
+      "💸",
+      "🔛",
+      "🤔"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -45,5 +45,9 @@
   "Maths": "✖",
   "Maths/Year 1": "🥇",
   "Maths/Year 2": "🥈",
-  "Computer Science/Project": "🤔"
+  "Computer Science/Project": "🤔",
+  "Computer Science/Boolean Algebra": "🔛",
+  "Business/Year 1/Theme 2/Finance": "💸",
+  "Business/Year 1/Theme 2/Operations": "🛍",
+  "Business/Key formula.md": "🖊"
 }
