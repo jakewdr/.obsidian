@@ -1,16 +1,16 @@
 {
   "settings": {
-    "migrated": 4,
+    "migrated": 5,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "👨‍💻",
+      "🥉",
+      "🧑‍⚖️",
       "🖊",
-      "🛍",
-      "💸",
-      "🔛",
-      "🤔"
+      "🛍"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -29,7 +29,8 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "debugMode": false
+    "debugMode": false,
+    "iconInTitlePosition": "above"
   },
   "Business": "💼",
   "Business/Year 1": "🥇",
@@ -49,5 +50,8 @@
   "Computer Science/Boolean Algebra": "🔛",
   "Business/Year 1/Theme 2/Finance": "💸",
   "Business/Year 1/Theme 2/Operations": "🛍",
-  "Business/Key formula.md": "🖊"
+  "Business/Key formula.md": "🖊",
+  "Computer Science/Legal, moral and cultural issues": "🧑‍⚖️",
+  "Computer Science/Programming techniques": "👨‍💻",
+  "Business/Year 1/Theme 3": "🥉"
 }

@@ -12,5 +12,6 @@
   "vimMode": true,
   "alwaysUpdateLinks": true,
   "rightToLeft": false,
-  "trashOption": "none"
+  "trashOption": "none",
+  "readableLineLength": true
 }
