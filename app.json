@@ -9,7 +9,7 @@
   },
   "promptDelete": false,
   "autoConvertHtml": false,
-  "vimMode": true,
+  "vimMode": false,
   "alwaysUpdateLinks": true,
   "rightToLeft": false,
   "trashOption": "none",
