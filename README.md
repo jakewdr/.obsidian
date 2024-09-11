@@ -4,4 +4,4 @@ This is my obsidian config used for school work, it will be updated automaticall
 
 # How do I use it
 
-Due to the nature of obsidian vaults I don't beleive this is fully plug and play so it would be probably better to use it for inspiration
+Due to the nature of obsidian vaults I don't believe this is fully plug and play so it would be probably better to use it for inspiration
