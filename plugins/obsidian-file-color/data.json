@@ -26,6 +26,11 @@
       "id": "xsEyx34kHe-YB_b5bbG0i",
       "name": "theme 2 green",
       "value": "#ade6ae"
+    },
+    {
+      "id": "WfmLOFokBCfgdc7fas0pd",
+      "name": "university purple",
+      "value": "#7a08af"
     }
   ],
   "fileColors": [
@@ -48,6 +53,10 @@
     {
       "path": "Business/Year 1/Theme 2",
       "color": "xsEyx34kHe-YB_b5bbG0i"
+    },
+    {
+      "path": "University",
+      "color": "WfmLOFokBCfgdc7fas0pd"
     }
   ]
 }

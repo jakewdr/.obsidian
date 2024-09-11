@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🏫",
+      "🧑‍💻",
       "👨‍💻",
       "🥉",
-      "🧑‍⚖️",
-      "🖊",
-      "🛍"
+      "🧑‍⚖️"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -53,5 +53,7 @@
   "Business/Key formula.md": "🖊",
   "Computer Science/Legal, moral and cultural issues": "🧑‍⚖️",
   "Computer Science/Programming techniques": "👨‍💻",
-  "Business/Year 1/Theme 3": "🥉"
+  "Business/Year 1/Theme 3": "🥉",
+  "Computer Science/Algorithms": "🧑‍💻",
+  "University": "🏫"
 }

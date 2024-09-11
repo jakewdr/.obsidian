@@ -8,6 +8,8 @@
     "indent rainbow",
     "fast text render"
   ],
-  "interfaceFontFamily": "Cascadia Mono",
-  "baseFontSize": 17
+  "interfaceFontFamily": "0xProto Nerd Font",
+  "baseFontSize": 17,
+  "textFontFamily": "Gadugi",
+  "monospaceFontFamily": "0xProto Nerd Font Mono"
 }
